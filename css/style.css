@@ -12,18 +12,19 @@ body {
     margin: 0 auto;
     padding: 0px;
     background-color: rgb(50 48 63 / 36%);
-
     background-size: contain;
     background-repeat: no-repeat;
     width: 100%;
-    display: flexbox;
+    /*display: flexbox;*/
+    /*display: flex;*/
+    display: grid;
+    /*display: block;*/
 }
 
 header {
     text-align: center;
     font-size: 12px;
     font-weight: 800;
-
     margin: 2.5% 0 2.5% 0;
 }
 
