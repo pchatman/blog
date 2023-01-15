@@ -15,10 +15,7 @@ body {
     background-size: contain;
     background-repeat: no-repeat;
     width: 100%;
-    /*display: flexbox;*/
-    /*display: flex;*/
     display: grid;
-    /*display: block;*/
 }
 
 header {
