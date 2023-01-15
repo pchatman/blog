@@ -237,6 +237,7 @@ figcaption {
 .footer {
     height: 7.5%;
     text-align: center;
+    display: grid;
     color: #fff;
     font-family: Helvetica, Geneva, Tahoma, sans-serif;
     padding-top: 1%;
