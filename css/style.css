@@ -25,6 +25,8 @@ header {
     margin: 2.5% 0 2.5% 0;
 }
 
+
+
 p {
     margin-top: 15px;
     font-weight: lighter;
@@ -64,6 +66,10 @@ li {
     border: 1px solid #102737;
 }
 
+.hero {
+    display: flex;
+    background-image: none;
+}
 
 
 /*****Media Queries*****/
@@ -93,7 +99,7 @@ li {
     }
 }
 
-/*********1000px rule*********/
+
 @media screen and (max-width: 1000px) {
     .main {
 
