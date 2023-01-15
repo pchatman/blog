@@ -15,7 +15,6 @@
     .section-blog-page {
         background-color: #fff;
         width: 80%;
-        /*display: flexbox;*/
         display: flex;
         text-align: left;
         border-radius: 2px;
